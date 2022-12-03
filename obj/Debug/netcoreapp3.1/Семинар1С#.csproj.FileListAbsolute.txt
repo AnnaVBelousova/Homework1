@@ -1,0 +1,14 @@
+C:\Users\Arteys\Desktop\Git\Семинар1С#\obj\Debug\netcoreapp3.1\Семинар1С#.csproj.AssemblyReference.cache
+C:\Users\Arteys\Desktop\Git\Семинар1С#\obj\Debug\netcoreapp3.1\Семинар1С#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arteys\Desktop\Git\Семинар1С#\obj\Debug\netcoreapp3.1\Семинар1С#.AssemblyInfoInputs.cache
+C:\Users\Arteys\Desktop\Git\Семинар1С#\obj\Debug\netcoreapp3.1\Семинар1С#.AssemblyInfo.cs
+C:\Users\Arteys\Desktop\Git\Семинар1С#\obj\Debug\netcoreapp3.1\Семинар1С#.csproj.CoreCompileInputs.cache
+C:\Users\Arteys\Desktop\Git\Семинар1С#\bin\Debug\netcoreapp3.1\Семинар1С#.exe
+C:\Users\Arteys\Desktop\Git\Семинар1С#\bin\Debug\netcoreapp3.1\Семинар1С#.deps.json
+C:\Users\Arteys\Desktop\Git\Семинар1С#\bin\Debug\netcoreapp3.1\Семинар1С#.runtimeconfig.json
+C:\Users\Arteys\Desktop\Git\Семинар1С#\bin\Debug\netcoreapp3.1\Семинар1С#.runtimeconfig.dev.json
+C:\Users\Arteys\Desktop\Git\Семинар1С#\bin\Debug\netcoreapp3.1\Семинар1С#.dll
+C:\Users\Arteys\Desktop\Git\Семинар1С#\bin\Debug\netcoreapp3.1\Семинар1С#.pdb
+C:\Users\Arteys\Desktop\Git\Семинар1С#\obj\Debug\netcoreapp3.1\Семинар1С#.dll
+C:\Users\Arteys\Desktop\Git\Семинар1С#\obj\Debug\netcoreapp3.1\Семинар1С#.pdb
+C:\Users\Arteys\Desktop\Git\Семинар1С#\obj\Debug\netcoreapp3.1\Семинар1С#.genruntimeconfig.cache
